@@ -9,7 +9,7 @@
 </dependency>
 ```
 
-* 引入依赖
+* 增加配置
 ```
 jedis.host=localhost
 jedis.port=6379
