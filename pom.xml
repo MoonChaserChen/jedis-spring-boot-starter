@@ -55,18 +55,4 @@
         </plugins>
     </build>
 
-    <distributionManagement>
-        <repository>
-            <id>nexus</id>
-            <name>Nexus Release Repository</name>
-            <url>http://10.4.80.103:8081/nexus/content/repositories/releases</url>
-        </repository>
-        <snapshotRepository>
-            <id>nexus</id>
-            <name>Nexus Snapshot Repository</name>
-            <url>http://10.4.80.103:8081/nexus/content/repositories/snapshots</url>
-        </snapshotRepository>
-    </distributionManagement>
-
-
 </project>
